@@ -1,22 +1,52 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QbumCX9HFFDQA/giphy.gif" width="480" alt="Cyber Visual Hacker"/>
+<img src="https://media.giphy.com/media/l3vR1GdzCgs0K4g7u/giphy.gif" width="180" alt="Coding Animation"/>
 
-# ⚡ SYSTEM OVERRIDE IN PROGRESS... ⚡
+# Hi 👋, I'm Muhammed Can Karakuş
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A155B9&center=true&vCenter=true&width=500&lines=Initializing+core_modules...;Accessing+Computer+Programming+DB...;Siber+Ussumuze+Hos+Geldiniz!😎" alt="Typing SVG" />
+### 🎓 Computer Programming Student
+*A passionate Computer Programming student and software developer building tomorrow's technologies.*
+
+</div>
 
 ---
 
-### 🖥️ CURRENT SESSION LOGS
+### 🛠️ Technologies & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,py,lua,unity,vscode,git,apple,linux&theme=dark" alt="My Skills" />
 </div>
 
-```bash
-$ whoami
-> MUHAMMED CAN KARAKUS // COMPUTER PROGRAMMING STUDENT
+---
 
-$ status
-> BUILDING TOMORROW'S TECHNOLOGIES... [OK]
+<div align="center">
 
-$ locate --targets
-> Game Development / Software Engineering / System Automation
+### 📊 GitHub Stats & Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=muhammedkarakus368-rgb&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammed's GitHub Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's Connect!
+
+<a href="mailto:muhammedkarakus@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-can-karaku%C5%9F-772a5b408/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/cankarakus.s/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![](https://komarev.com/normal-badge/?username=muhammedkarakus368-rgb&color=blue)
+
+</div>
