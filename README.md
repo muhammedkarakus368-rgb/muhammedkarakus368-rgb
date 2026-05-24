@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Znd2M3cXN5ZndwY2Z6ZndwY2Z6ZndwY2Z6ZndwY2Z6ZndwYyZwaW5zPTEyNTY3MDYwNDg/vDcXoExgh6GWI/giphy.gif" width="260" alt="Muhammed's Anime Coding Session"/>
+<img src="https://media.giphy.com/media/Y34iE5o0wul1A6HLVF/giphy.gif" width="400" alt="Muhammed's Coding Session"/>
 
 # Hi 👋, I'm Muhammed Can Karakuş
 
 ### 🎓 Computer Programming Student
-*A passionate Computer Programming student and software developer building tomorrow's technologies with code and anime power.*
+*A passionate Computer Programming student and software developer building tomorrow's technologies with clean and efficient code.*
 
 </div>
 
