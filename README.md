@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/username-or-source/MuhammedCanKarakus/main/muhammed-anime-coder.gif" width="220" alt="Muhammed's Anime Coding Session"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Znd2M3cXN5ZndwY2Z6ZndwY2Z6ZndwY2Z6ZndwY2Z6ZndwYyZwaW5zPTEyNTY3MDYwNDg/vDcXoExgh6GWI/giphy.gif" width="260" alt="Muhammed's Anime Coding Session"/>
 
 # Hi 👋, I'm Muhammed Can Karakuş
 
