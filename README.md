@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3vR1GdzCgs0K4g7u/giphy.gif" width="180" alt="Coding Animation"/>
+<img src="https://raw.githubusercontent.com/username-or-source/MuhammedCanKarakus/main/muhammed-anime-coder.gif" width="220" alt="Muhammed's Anime Coding Session"/>
 
 # Hi 👋, I'm Muhammed Can Karakuş
 
 ### 🎓 Computer Programming Student
-*A passionate Computer Programming student and software developer building tomorrow's technologies.*
+*A passionate Computer Programming student and software developer building tomorrow's technologies with code and anime power.*
 
 </div>
 
