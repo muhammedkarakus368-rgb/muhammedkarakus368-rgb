@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/Y34iE5o0wul1A6HLVF/giphy.gif" width="400" alt="Muhammed's Coding Session"/>
+<img src="https://media.giphy.com/media/836HwUoI5L2D7P4x6y/giphy.gif" width="450" alt="Muhammed's Coding Session"/>
 
 # Hi 👋, I'm Muhammed Can Karakuş
 
