@@ -1,52 +1,22 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l3vR1GdzCgs0K4g7u/giphy.gif" width="180" alt="Coding Animation"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHgzamNvaGVrdTN0NThueDM1NmVkamNibGt1OGlyNjR1ajI2YnhibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfYWlfaWQmY3Q9Zw/6FWpozKBgrQD4MZwDC/giphy.gif" width="450" alt="Hacker Coding"/>
 
-# Hi 👋, I'm Muhammed Can Karakuş
+# ⚡ SYSTEM OVERRIDE IN PROGRESS... ⚡
 
-### 🎓 Computer Programming Student
-*A passionate Computer Programming student and software developer building tomorrow's technologies.*
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Initializing+core_modules...;Accessing+Computer+Programming+DB...;Siber+Ussumuze+Hos+Geldiniz!😎" alt="Typing SVG" />
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,py,lua,unity,vscode,git,apple,linux&theme=dark" alt="My Skills" />
+### 🖥️ CURRENT SESSION LOGS
 </div>
 
----
+```bash
+$ whoami
+> MUHAMMED CAN KARAKUS // COMPUTER PROGRAMMING STUDENT
 
-<div align="center">
+$ status
+> BUILDING TOMORROW'S TECHNOLOGIES... [OK]
 
-### 📊 GitHub Stats & Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=muhammedkarakus368-rgb&show_icons=true&theme=tokyonight&count_private=true" alt="Muhammed's GitHub Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ Let's Connect!
-
-<a href="mailto:muhammedkarakus@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammed-can-karaku%C5%9F-772a5b408/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/cankarakus.s/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![](https://komarev.com/normal-badge/?username=muhammedkarakus368-rgb&color=blue)
-
-</div>
+$ locate --targets
+> Game Development / Software Engineering / System Automation
